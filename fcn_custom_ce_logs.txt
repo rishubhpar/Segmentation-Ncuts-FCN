@@ -1,0 +1,56 @@
+x shape:  torch.Size([4, 3, 512, 771])
+y shape:  torch.Size([4, 21, 512, 800])
+Number of images in set:  train  :  1464
+Number of images in set:  val  :  1449
+train set size:  1464
+test set size:  1449
+[Ep:0] - train loss: 2.664, test loss: 2.219, train acc: 0.536, test acc: 0.644
+[Ep:1] - train loss: 2.105, test loss: 2.027, train acc: 0.648, test acc: 0.645
+[Ep:2] - train loss: 1.889, test loss: 1.732, train acc: 0.648, test acc: 0.645
+[Ep:3] - train loss: 1.644, test loss: 1.58, train acc: 0.649, test acc: 0.647
+[Ep:4] - train loss: 1.569, test loss: 1.545, train acc: 0.649, test acc: 0.647
+[Ep:5] - train loss: 1.536, test loss: 1.52, train acc: 0.648, test acc: 0.645
+[Ep:6] - train loss: 1.51, test loss: 1.494, train acc: 0.649, test acc: 0.645
+[Ep:7] - train loss: 1.482, test loss: 1.482, train acc: 0.649, test acc: 0.643
+[Ep:8] - train loss: 1.463, test loss: 1.459, train acc: 0.649, test acc: 0.647
+[Ep:9] - train loss: 1.452, test loss: 1.45, train acc: 0.649, test acc: 0.646
+[Ep:10] - train loss: 1.441, test loss: 1.446, train acc: 0.648, test acc: 0.644
+[Ep:11] - train loss: 1.43, test loss: 1.443, train acc: 0.649, test acc: 0.642
+[Ep:12] - train loss: 1.425, test loss: 1.434, train acc: 0.649, test acc: 0.644
+[Ep:13] - train loss: 1.417, test loss: 1.426, train acc: 0.649, test acc: 0.645
+[Ep:14] - train loss: 1.413, test loss: 1.414, train acc: 0.649, test acc: 0.647
+[Ep:15] - train loss: 1.406, test loss: 1.422, train acc: 0.649, test acc: 0.646
+[Ep:16] - train loss: 1.411, test loss: 1.408, train acc: 0.648, test acc: 0.644
+[Ep:17] - train loss: 1.395, test loss: 1.398, train acc: 0.649, test acc: 0.647
+[Ep:18] - train loss: 1.392, test loss: 1.399, train acc: 0.649, test acc: 0.645
+[Ep:19] - train loss: 1.38, test loss: 1.397, train acc: 0.649, test acc: 0.644
+[Ep:20] - train loss: 1.38, test loss: 1.398, train acc: 0.648, test acc: 0.643
+[Ep:21] - train loss: 1.372, test loss: 1.37, train acc: 0.649, test acc: 0.645
+[Ep:22] - train loss: 1.352, test loss: 1.362, train acc: 0.648, test acc: 0.645
+[Ep:23] - train loss: 1.334, test loss: 1.324, train acc: 0.65, test acc: 0.648
+[Ep:24] - train loss: 1.296, test loss: 1.284, train acc: 0.657, test acc: 0.653
+[Ep:25] - train loss: 1.246, test loss: 1.231, train acc: 0.665, test acc: 0.666
+[Ep:26] - train loss: 1.212, test loss: 1.204, train acc: 0.674, test acc: 0.67
+[Ep:27] - train loss: 1.183, test loss: 1.181, train acc: 0.682, test acc: 0.678
+[Ep:28] - train loss: 1.159, test loss: 1.147, train acc: 0.688, test acc: 0.688
+[Ep:29] - train loss: 1.14, test loss: 1.126, train acc: 0.695, test acc: 0.693
+[Ep:30] - train loss: 1.124, test loss: 1.108, train acc: 0.697, test acc: 0.696
+[Ep:31] - train loss: 1.104, test loss: 1.093, train acc: 0.701, test acc: 0.696
+[Ep:32] - train loss: 1.09, test loss: 1.081, train acc: 0.704, test acc: 0.698
+[Ep:33] - train loss: 1.069, test loss: 1.06, train acc: 0.706, test acc: 0.702
+[Ep:34] - train loss: 1.054, test loss: 1.06, train acc: 0.707, test acc: 0.699
+[Ep:35] - train loss: 1.038, test loss: 1.037, train acc: 0.711, test acc: 0.707
+[Ep:36] - train loss: 1.023, test loss: 1.021, train acc: 0.714, test acc: 0.708
+[Ep:37] - train loss: 1.012, test loss: 1.001, train acc: 0.716, test acc: 0.709
+[Ep:38] - train loss: 0.991, test loss: 0.982, train acc: 0.717, test acc: 0.715
+[Ep:39] - train loss: 0.986, test loss: 0.97, train acc: 0.72, test acc: 0.717
+[Ep:40] - train loss: 0.971, test loss: 0.968, train acc: 0.723, test acc: 0.717
+[Ep:41] - train loss: 0.955, test loss: 0.946, train acc: 0.726, test acc: 0.723
+[Ep:42] - train loss: 0.948, test loss: 0.941, train acc: 0.728, test acc: 0.723
+[Ep:43] - train loss: 0.939, test loss: 0.932, train acc: 0.728, test acc: 0.724
+[Ep:44] - train loss: 0.923, test loss: 0.923, train acc: 0.733, test acc: 0.727
+[Ep:45] - train loss: 0.918, test loss: 0.911, train acc: 0.732, test acc: 0.729
+[Ep:46] - train loss: 0.905, test loss: 0.907, train acc: 0.735, test acc: 0.73
+[Ep:47] - train loss: 0.896, test loss: 0.899, train acc: 0.737, test acc: 0.731
+[Ep:48] - train loss: 0.893, test loss: 0.899, train acc: 0.737, test acc: 0.731
+[Ep:49] - train loss: 0.881, test loss: 0.898, train acc: 0.74, test acc: 0.73
